@@ -1,0 +1,5 @@
+
+logger/migrations
+testserver/__pycache__
+db.sqlite3
+
